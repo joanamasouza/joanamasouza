@@ -33,6 +33,7 @@ I'm continuously strengthening my technical toolkit (SQL, Python, Power BI).
 | [project-1-name](link) | *One line: e.g. pension liability and cash-flow calculation* | SQL |
 | [project-2-name](link) | *One line: e.g. actuarial KPI dashboard (screenshots)* | Power BI |
 | [project-3-name](link) | *One line: e.g. reserve projection model with documentation* | Excel / Python |
+| [automation-demos](link) | Automatic e-mail with a file link when a document is added to a shared folder, replacing manual attachments | Power Automate |
 
 
 ## Get in touch
