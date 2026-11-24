@@ -10,7 +10,7 @@ Based in Rio de Janeiro, Brazil · Working in English and Portuguese
 
 I'm an actuary with 8 years of experience across pension funds, consulting, banking and a tech startup, plus one year working as a data analyst. I enjoy turning complex actuarial and financial processes into clear, reproducible calculations and dashboards that decision-makers can actually use.
 
-I'm continuously strengthening my technical toolkit (SQL, Python, Power BI) and studying toward SOA exams.
+I'm continuously strengthening my technical toolkit (SQL, Python, Power BI).
 
 ## What I work with
 
